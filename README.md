@@ -127,12 +127,26 @@
 
 
 
-<h1> 💫 About Me  </h1>
+<h1> 💫  </h1>
 
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
 
 
+
+
+<a href="#--about-me--">
+  <img align="left" width="100%" style="padding:10px;"
+       src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=A+única+pessoa+com+quem+você+tem+que+se+comparar,+é+com+você+no+passado." />
+</a>
+
+
+
+
+<a href="#--about-me--">
+  <img align="left" width="100%" style="padding:10px;"
+       src="https://img.shields.io/badge/A%20única%20pessoa%20com%20quem%20você%20tem%20que%20se%20comparar,%20é%20com%20você%20no%20passado.-black?style=for-the-badge&logoColor=white" />
+</a>
 
 
 
