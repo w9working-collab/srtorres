@@ -105,9 +105,3 @@
 <h3 align="center">🔥 Sempre evoluindo e aprendendo 🔥</h3>
 ### Tools
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
-<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /><br/></a>
-<br/><br/>
-<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
