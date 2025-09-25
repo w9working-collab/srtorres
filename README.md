@@ -1,4 +1,13 @@
 
+<a href="#--about-me--">
+  <img align="center" width="100%" style="padding:10px;"
+       src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=000000&center=true&vCenter=true&width=1000&font=Pacifico&lines=E+aí,+Tudo+bem?;Bem-vindo!;A+única+pessoa+com+quem+você+tem+que+se+comparar,+é+com+você+no+passado.&pause=2000" />
+</a>
+
+
+
+
+
 <!-- Primeiro SVG: linhas rápidas -->
 <img align="center" width="100%" style="padding:10px;"
      src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=000000&center=true&vCenter=true&width=1000&font=Pacifico&lines=E+aí,+Tudo+bem?;Bem-vindo!" />
