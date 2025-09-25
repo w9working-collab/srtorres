@@ -1,4 +1,12 @@
 
+<p align="center">
+  <a href="https://github.com/" target="_blank">
+    <img alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" />
+  </a>
+</p>
+
+
+
 <a href="#--about-me--">
   <img align="center" width="100%" style="padding:10px;"
        src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=000000&center=true&vCenter=true&width=1000&font=Pacifico&lines=E+aí,+Tudo+bem?;Bem-vindo!;A+única+pessoa+com+quem+você+tem+que+se+comparar,+é+com+você+no+passado.&pause=500" />
@@ -139,57 +147,6 @@
 
 
 
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="Moodle" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="46" alt="R" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=latex" height="46" alt="LaTeX" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="Excel" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="46" alt="Power BI" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="46" alt="Jupyter" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
-  </a>
-</p>
-
-
-
---------------------
-
-<style>
-  .icon-float {
-    height: 46px;
-    margin: 0 10px;
-    animation: float 3s ease-in-out infinite;
-  }
-
-  @keyframes float {
-    0%   { transform: translateY(0px); }
-    50%  { transform: translateY(-8px); }
-    100% { transform: translateY(0px); }
-  }
-</style>
-
-<p align="center">
-  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" alt="Moodle" class="icon-float" /></a>
-  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" class="icon-float" /></a>
-  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" class="icon-float" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" class="icon-float" /></a>
-  <a href="#" target="_blank"><img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" alt="Excel" class="icon-float" /></a>
-  <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" class="icon-float" /></a>
-  <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" class="icon-float" /></a>
-</p>
 
 
 
