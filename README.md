@@ -5,6 +5,12 @@
 </a>
 
 
+<a href="#--about-me--">
+  <img align="left" width="100%" style="padding:10px;"
+       src="https://img.shields.io/badge/A%20única%20pessoa%20com%20quem%20você%20tem%20que%20se%20comparar,%20é%20com%20você%20no%20passado.-black?style=for-the-badge&logoColor=white" />
+</a>
+
+
 
 
 <h1 align="center">👾 Bem-vindo ao meu GitHub 👾</h1>
