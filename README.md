@@ -139,6 +139,29 @@
 
 
 
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="46" alt="Moodle" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="46" alt="R" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=latex" height="46" alt="LaTeX" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="46" alt="Excel" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="46" alt="Power BI" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="46" alt="Jupyter" style="padding:10px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" />
+  </a>
+</p>
 
 
 
