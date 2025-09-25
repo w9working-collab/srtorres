@@ -1,3 +1,11 @@
+
+<a href="#--about-me--">
+  <img align="left" width="100%" style="padding:10px;"
+       src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=A+única+pessoa+com+quem+você+tem+que+se+comparar,+é+com+você+no+passado." />
+</a>
+
+
+
 <h1 align="center">👾 Bem-vindo ao meu GitHub 👾</h1>
 
 <p align="center">
