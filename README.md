@@ -165,6 +165,34 @@
 
 
 
+--------------------
+
+<style>
+  .icon-float {
+    height: 46px;
+    margin: 0 10px;
+    animation: float 3s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%   { transform: translateY(0px); }
+    50%  { transform: translateY(-8px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
+
+<p align="center">
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" alt="Moodle" class="icon-float" /></a>
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" class="icon-float" /></a>
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" class="icon-float" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" class="icon-float" /></a>
+  <a href="#" target="_blank"><img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" alt="Excel" class="icon-float" /></a>
+  <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" class="icon-float" /></a>
+  <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" class="icon-float" /></a>
+</p>
+
+
+
 
 
 
