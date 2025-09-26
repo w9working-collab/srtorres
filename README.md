@@ -9,7 +9,11 @@
        src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=000000&center=true&vCenter=true&width=1000&font=Pacifico&lines=E+aí,+Tudo+bem?;Bem-vindo!;A+única+pessoa+com+quem+você+tem+que+se+comparar,+é+com+você+no+passado." />
 </a>
 
+----------------------
 
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
 
 
 
